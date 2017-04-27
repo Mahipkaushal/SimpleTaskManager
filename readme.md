@@ -10,9 +10,10 @@ In order to run this project on Local Machine please follow the below steps
 2. Create Database
 3. >> `$ composer install`
 4. >> `$ php artisan key:generate`
-5. setup your database credentials (using .env file)
-6. >> php `$ php artisan migrate`
-7. >> php `$ php artisan db:seed` (required to login)
+5. Make copy of .env.example file and rename to .env
+6. setup your database credentials (using .env file)
+7. >> php `$ php artisan migrate`
+8. >> php `$ php artisan db:seed` (required to login)
 
 ## Details
 
