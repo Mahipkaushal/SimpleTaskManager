@@ -20,7 +20,7 @@ In order to run this project on Local Machine please follow the below steps
 Command db:seed creates basic rows in the respective table such as
 
 - Fill Roles Table
-- Create first user in Users Table (Username = "admin" && Password = "admin")
+- Create first user in Users Table (Username = "admin" & Password = "admin")
 
 User Access Levels
 
