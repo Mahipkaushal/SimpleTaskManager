@@ -22,7 +22,7 @@ class UsersTableSeeder extends Seeder
 				'email'		=>	'admin@taskmanager.com',
 				'role_id' 	=>	'1',
 				'password'	=>	Hash::make('admin'),
-                'is_active' =>  1
+                'is_active' =>  1,
 				'created_at'=>	$now,
 				'updated_at'=>	$now
 			)
